@@ -1,5 +1,6 @@
 <img width="885" height="545" alt="image" src="https://github.com/user-attachments/assets/bd2325e3-971f-4554-ba11-5b742ac56fee" />
 
+<img width="1678" height="711" alt="image" src="https://github.com/user-attachments/assets/24a52ae5-e077-460c-8b25-41b8c3839a1f" />
 
 
 WHAT IT DOES AND HOW IT WORKS
