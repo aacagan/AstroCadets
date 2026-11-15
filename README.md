@@ -1,3 +1,7 @@
+<img width="885" height="545" alt="image" src="https://github.com/user-attachments/assets/bd2325e3-971f-4554-ba11-5b742ac56fee" />
+
+
+
 WHAT IT DOES AND HOW IT WORKS
 Astro Cadets: Launch Day is a 3D Roblox game that puts kids aged 8-12 inside a real launch complex as a junior astronaut. Gameplay happens physically in the 3D world, not in menus. Players walk, run, carry and interact with objects to prepare a rocket for liftoff:
 - Fuel: carry fuel canisters to the rocket while avoiding hazards that make them drop the canister.
